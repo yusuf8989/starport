@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/tendermint/starport,2464,865
+/tendermint/starport/pulls,773,43
+/tendermint/starport/issues,487,101
+/tendermint/starport/search,282,58
+/tendermint/starport/tree/develop/starport,172,101
+/tendermint/starport/releases,137,73
+/tendermint/starport/tree/develop/docs,107,67
+/tendermint/starport/pull/2146,102,14
+/tendermint/starport/issues/2171,86,23
+/tendermint/starport/commits/develop,82,13
